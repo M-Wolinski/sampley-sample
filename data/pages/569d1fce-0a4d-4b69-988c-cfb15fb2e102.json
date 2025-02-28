@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-28T20:24:51.708Z",
+  "created_by": "M-Wolinski",
+  "title": "Theoretical Theatre",
+  "slug": "theoretical-theatre",
+  "updated_at": "2025-02-28T20:24:51.708Z",
+  "updated_by": "M-Wolinski",
+  "parent": "852d945c-fd20-497c-859d-44181bec6d55",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "46133a64-b65d-4f2a-bd77-c6dc7fee307b"
+  }
+}
